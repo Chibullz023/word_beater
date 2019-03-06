@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "speed typing app built with JavaScript",
   "main": "index.js",
-  "homepage": "https://chibullz023.github.io/wordbeater",
+  "homepage": "https://chibullz023.github.io/word_beater/index.html",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
