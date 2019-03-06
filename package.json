@@ -1,0 +1,15 @@
+{
+  "name": "wordbeater",
+  "version": "1.0.0",
+  "description": "speed typing app built with JavaScript",
+  "main": "index.js",
+  "homepage": "https://chibullz023.github.io/wordbeater",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Miguel Torres",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
