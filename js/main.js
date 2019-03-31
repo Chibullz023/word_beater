@@ -4,9 +4,9 @@ window.addEventListener("load", init);
 
 // Available Levels
 const levels = {
-  easy: 4,
-  medium: 3,
-  hard: 1
+  easy: 6,
+  medium: 4,
+  hard: 2
 };
 
 // To change level
